@@ -6,21 +6,20 @@ To write a python program to implement K-Means Clustering Algorithm.
 2.	Anaconda – Python 3.7 Installation
 
 ## Algorithm:
-
 ### Step1
-<br>
+Import pandas,mathplotlib.pyplot,sklearn,seaborn,warnings.
 
 ### Step2
-<br>
+Read the csv fileusing df.head() and assign it to the variables
 
 ### Step3
-<br>
+Plot the group using scatterplot.
 
 ### Step4
-<br>
+Find the centroid using KMeans from sklearn module.
 
 ### Step5
-<br>
+Run the program and display the graph.
 
 ## Program:
 ```
