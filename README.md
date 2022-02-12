@@ -61,7 +61,7 @@ print('The cluster group for Applicant Income 9000 and loanamount 120',predicted
 
 ```
 ## Output:
-![output]()
+![output](https://github.com/ragulmani936/K-Means-Clustering-algorithm/blob/master/Screenshot%20(60).png)
 ![output]()
 
 ## Result
